@@ -1,4 +1,15 @@
-div{
+.first{
     background-color: tomato;
     padding:10px;
+    margin:5px;
+}
+.second{
+    background-color: rgb(102, 255, 71);
+    padding:10px;
+    margin:5px;
+}
+.third{
+    background-color: rgb(89, 71, 255);
+    padding:10px;
+    margin:5px;
 }
